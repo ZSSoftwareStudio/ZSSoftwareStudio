@@ -3,11 +3,11 @@ I am Zarif Sadman. A Full Stack Web and App Developer.
 
 ```javascript
 const aboutMe = {
-   name: "Sadman Zarif",
-   jobTitles: ["Founder", "Developer", "Freelancer", "Designer"],
-   company: "ZS Software Studio",
+   name: "Zarif Sadman",
+   jobTitles: ["Founder", "CTO", "Developer", "Freelancer", "Designer"],
+   company: "9BracketSolutions",
    email: "zarif@zarifprogrammer.com",
-   website: "https://studio.zarifprogrammer.com",
+   website: "https://zarifprogrammer.com",
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, Javascript, PHP, TypeScript, Wordpress, Dart, Kotlin],
    technologies: {
@@ -18,18 +18,17 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express", "NextJS"],
-         python: ["Django", "Flask"],
+         python: ["Django", "Flask", "FastAPI"],
          php: ["Laravel", "Raw PHP", "WordPress"],
       },
       databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"],
       mobile: ["Android", "IOS"],
       wordpress: ["Elementor", "WooCommerce", "Astra", "OceanWP", "Elementor Pro", "Tutor LMS"],
-      prototype: ["Blender", "Figma", "Spline", "Adobe XD", "Sketch"]
+      prototype: ["Blender", "Figma", "Spline", "Adobe XD", "Sketch"],
+      ai_models: ["Claude", "GPT", "Gemini"]
    }
 };
 ```
 
 </br></br>
 
-
-⭐️ From [@ZSSoftwareStudio](https://github.com/ZSSoftwareStudio)
