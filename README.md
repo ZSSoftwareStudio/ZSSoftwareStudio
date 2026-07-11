@@ -1,10 +1,11 @@
 # Hi, There
-I am Zarif Sadman. A Full Stack Web and App Developer.
+I am Zarif Sadman. <br>
+Generative AI Engineer | A Full Stack App Developer | UI/UX Designer
 
 ```javascript
 const aboutMe = {
    name: "Zarif Sadman",
-   jobTitles: ["Founder", "CTO", "Developer", "Freelancer", "Designer"],
+   jobTitles: ["Founder", "CTO", "GenAI Engineer", "Developer", "Freelancer", "Designer"],
    company: "9BracketSolutions",
    email: "zarif@zarifprogrammer.com",
    website: "https://zarifprogrammer.com",
@@ -25,7 +26,8 @@ const aboutMe = {
       mobile: ["Android", "IOS"],
       wordpress: ["Elementor", "WooCommerce", "Astra", "OceanWP", "Elementor Pro", "Tutor LMS"],
       prototype: ["Blender", "Figma", "Spline", "Adobe XD", "Sketch"],
-      ai_models: ["Claude", "GPT", "Gemini"]
+      ai_models: ["Claude", "GPT", "Gemini"],
+      ai_skills: ["LangChain", "LangGraph", "ChromaDB", "MongoDB Vector Search"]
    }
 };
 ```
