@@ -10,7 +10,7 @@ const aboutMe = {
    email: "zarif@zarifprogrammer.com",
    website: "https://zarifprogrammer.com",
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Javascript, PHP, TypeScript, Wordpress, Dart, Kotlin],
+   code: [HTML, CSS, Python, Java, Javascript, PHP, TypeScript, Swift, Dart, Kotlin],
    technologies: {
       frontEnd: {
          js: ["React", "React Native", "Angular", "Vanilla JS"],
